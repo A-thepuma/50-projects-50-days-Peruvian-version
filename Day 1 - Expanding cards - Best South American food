@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="style.css" />
+        <title>Expandings Cards - Best South American food</title>
+    </head>
+    <body>
+        <div class="container">
+            <div class="panel active" style="background-image: url('https://img.freepik.com/fotos-premium/delicioso-ceviche-mariscos-peru-chiles-garbanzos_127101-193.jpg')">
+               <h3> Ceviche - Peru</h3>
+            </div>
+            <div class="panel" style="background-image: url('https://qpasa.com/wp-content/uploads/2021/01/food-colombia-paisa_t20_mvKoN3.jpg')">
+               <h3> Bandeja Paisa - Colombia </h3>
+            </div>
+            <div class="panel" style="background-image: url('https://qpasa.com/wp-content/uploads/2021/01/the-arepa-is-the-main-emblem-of-venezuelan-cuisine-it-is-a-bread-made-with-pure-corn-which-is-cut_t20_9kzW6y.jpg')">
+               <h3> Arepa Venezolana - Venezuela</h3>
+            </div>
+            <div class="panel" style="background-image: url('http://4.bp.blogspot.com/-jKC5lX-BezI/U6xC1q6nGZI/AAAAAAAAAYY/0fcjU0q9rVY/s1600/receta4.jpg')">
+               <h3> Feijoada-Brazil</h3>
+            </div>
+            <div class="panel" style="background-image: url('https://c4.wallpaperflare.com/wallpaper/27/415/605/argentina-carne-copa-embutidos-wallpaper-preview.jpg')">
+               <h3> Asado - Argentina</h3>
+            </div>
+            <div class="panel" style="background-image: url('https://cdn.bolivia.com/gastronomia/2015/10/14/aji-de-fideos-3547.webp')">
+               <h3>Majadito - Bolivia</h3>
+            </div>
+            <div class="panel" style="background-image: url('https://visitparaguay.travel/v1/upload/experiencia_imagen/37027465_08021889_60AFF0D546D8D_B.jpg')">
+              <h3> Vorí Vorí - Paraguay </h3>
+            </div>
+            <div class="panel" style="background-image: url('https://images.squarespace-cdn.com/content/v1/56945af11c121086a88a2187/1497539281340-HOW3DWKOAZ527D073GCJ/ke17ZwdGBToddI8pDm48kNJlTcgGnwg1S4TJYInC57pZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIgyf-PYyujx-vS_RildzI7F9FwgJLvY6kaDAzAPrEzaQKMshLAGzx4R3EDFOm1kBS/bol%C3%B3n+de+verde%2C+comida+t%C3%ADpica+del+Ecuador')">
+              <h3> Bolón de verde - Ecuador</h3>
+            </div>
+            <div class="panel" style="background-image: url('https://elviajerofeliz.com/wp-content/uploads/2019/07/Comida-Chile-4.jpg')">
+              <h3> Porotos - Chili</h3>
+            </div>
+            <div class="panel" style="background-image: url('https://www.lugaresturisticos.org/wp-content/uploads/2020/12/Depositphotos_8977592_s-2019.jpg')">
+              <h3> Los Ñoquis de Papa - Uruguay </h3>
+            </div>
+
+        </div>
+
+        <script src="script.js"></script>        
+    </body>
+</html>
